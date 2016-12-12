@@ -1,5 +1,5 @@
 ### 在线demo：[移动端淘宝全站](https://mao1105.github.io/mobile-taobao/)（请在手机端访问）
-![QR](Mao1105.github.io/mobile-taobao/img/QR.png )
+![QR](https://github.com/Mao1105/Mao1105.github.io/blob/master/mobile-taobao/img/QR.png )
 
 **简介**：实现淘宝移动端页面布局以及主要功能，适配各种移动设备
 
