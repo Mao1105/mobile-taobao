@@ -1,3 +1,5 @@
+![QR](Mao1105.github.io/mobile-taobao/img/QR.png )
+
 **简介**：实现淘宝移动端页面布局以及主要功能，适配各种移动设备
 
 **功能**：
